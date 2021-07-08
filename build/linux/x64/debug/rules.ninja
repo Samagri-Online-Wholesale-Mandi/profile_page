@@ -42,7 +42,7 @@ rule CXX_EXECUTABLE_LINKER__projectone
 # Rule for re-running cmake.
 
 rule RERUN_CMAKE
-  command = /snap/flutter/81/usr/bin/cmake -H/home/prathviraj/Documents/procode/flutter/projectone/linux -B/home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug
+  command = /snap/flutter/91/usr/bin/cmake -H/home/prathviraj/Documents/procode/flutter/projectone/linux -B/home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug
   description = Re-running CMake...
   generator = 1
 

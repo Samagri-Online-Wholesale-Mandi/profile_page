@@ -7,6 +7,7 @@
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/fonts/Lora.ttf
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/assets/prathvi.jpeg
+/home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/assets/profile.png
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/assets/ajith.jpeg
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
 /home/prathviraj/Documents/procode/flutter/projectone/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
